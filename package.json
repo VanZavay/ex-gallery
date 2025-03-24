@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "homepage": "https://vanzavay.github.io/ex-gallery/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
